@@ -9,7 +9,7 @@ Ondra:
 
 - Pripravit cviceni na GAN
 - Ukazat hyperparam opti pro NN
-
+- https://masters.donntu.ru/2012/fknt/umiarov/library/lecun.pdf
 
 HW 1
 - do zadání rozepsat, co má úloha všechno mít
